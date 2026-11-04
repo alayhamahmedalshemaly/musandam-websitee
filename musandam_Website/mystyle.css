@@ -1,0 +1,11 @@
+body {
+    background-color: lightcoral;
+}
+
+img, table {
+    border-radius: 15%;
+}
+
+nav a:hover {
+    background-color: yellow;
+}
